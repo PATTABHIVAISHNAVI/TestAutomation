@@ -16,7 +16,7 @@ public class Student {
     public static void main(String[] args){
         int i,n;
 
-        Student student= new Student();
+        Student student= new Student(); // Object is created
 
 
         //FOR LOOP
@@ -47,7 +47,7 @@ public class Student {
 
 
 
-        System.out.println("Name of student is " + student.name +"Roll no is " + student.num );
+        System.out.println("Name of student is " + student.name +"Roll no is " + student.num );// Here it is the student.name which is the object name
 
     }
 
