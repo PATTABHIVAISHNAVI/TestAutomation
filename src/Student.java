@@ -1,5 +1,5 @@
-class Student {
-    public static void main(){
+public class Student {
+    public static void main(String[] args){
         int i;
         //FOR LOOP
         for(i=0;i<10;i++)
