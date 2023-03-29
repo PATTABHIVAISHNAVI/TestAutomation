@@ -1,4 +1,4 @@
-public class Student {
+class Student {
     public static void main(){
         int i;
         //FOR LOOP
